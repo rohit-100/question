@@ -1,0 +1,2 @@
+find the nth node from last   ..// using two pointer given in geeks without knowing the size of the linkedlist
+
