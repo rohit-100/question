@@ -1,3 +1,4 @@
 find the nth node from last   ..// using two pointer given in geeks without knowing the size of the linkedlist
 find the middle element of a single link list  //usign slow and fast pointer 
 
+swaping of nodes with links 
