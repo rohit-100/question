@@ -1,0 +1,5 @@
+next greater element
+next left greater element
+postfix eveluation
+infix to postfix
+stock stack problem
