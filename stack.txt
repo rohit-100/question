@@ -3,3 +3,4 @@ next left greater element
 postfix eveluation
 infix to postfix
 stock stack problem
+ maximum area of rectangle in histogram 
